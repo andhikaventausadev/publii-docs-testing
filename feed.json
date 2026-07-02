@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ventausa Dev Site",
+    "description": "",
+    "home_page_url": "https://andhikaventausadev.github.io/publii-docs-testing",
+    "feed_url": "https://andhikaventausadev.github.io/publii-docs-testing/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andhika Ventausa"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://andhikaventausadev.github.io/publii-docs-testing/sitemap.xml
